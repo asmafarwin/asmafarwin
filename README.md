@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Asma Farwin</h1>
 <h3 align="center">BSc(Hons) Cyber Security Undergraduate @ SLIIT City University</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmafarwin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <table align="center">
 <tr>
 <td width="50%" align="left">
