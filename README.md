@@ -11,15 +11,18 @@
 
 <table align="center">
 <tr>
-<td width="60%">
+<td width="50%" align="left">
 
-- 🛡️ Studying **Cyber Security** at SLIIT City University
-- 🛒 Built **Aura Attire** — a PHP/MySQL e-commerce store, including fixing security vulnerabilities & adding secure auth
-- 📚 Built **Sarasavi Library Management System** — a C# .NET Windows Forms app with a SQL Server backend
-- 🌱 Currently exploring secure coding practices and full-stack development
-- 💬 Ask me about PHP, C#/.NET, SQL Server, or web app security
-- 📫 Reach me at **asmafarwin31@gmail.com**
+- 🎓 I'm currently studying **BSc (Hons) Cyber Security at SLIIT City University**
+- 🔐 I'm passionate about **Cybersecurity, Ethical Hacking & Network Security**
+- 🌱 I'm currently learning **Linux, Python & Web Security**
+- 💻 I enjoy building small security-related projects
+- 🎯 Goal: Become a professional Cybersecurity Engineer
+- ⚡ Fun fact: I love learning through hands-on labs & practice
 
+</td>
+<td width="50%" align="center">
+<img align="center" alt="Cybersecurity" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
 </td>
 </tr>
 </table>
