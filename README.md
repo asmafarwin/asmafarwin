@@ -27,28 +27,24 @@ fun_fact: I debug code faster than I debug my sleep schedule 😴
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
 <div align="center">
+Languages
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,csharp,java,python,php,js,html,css&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,js,html,css&theme=dark" />
 <br/><br/>
 
-**Databases & Backend**
+Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb,nodejs&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs&theme=dark" />
+<img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <br/><br/>
 
-**Tools & Platforms**
+Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,bootstrap&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,bootstrap&theme=dark" />
 </div>
-
 <br/>
 
 ## 📊 GitHub Analytics
