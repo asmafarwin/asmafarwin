@@ -55,15 +55,48 @@ Location: Sri Lanka
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asmafarwin/asmafarwin/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmafarwin&theme=radical&hide_border=true&background=0D1117"/>
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://streak-stats.demolab.com?user=asmafarwin&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&area=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&theme=radical&no-frame=true&row=1&column=6"/>
+
+</td>
+</tr>
+
+</table>
 
 </div>
-
-<br/>
 
 ## 🤝 Connect With Me
 
