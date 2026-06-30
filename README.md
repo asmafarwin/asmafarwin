@@ -117,5 +117,5 @@ Location: Sri Lanka
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <i>From <a href="https://github.com/asmafarwin">asmafarwin</a></i>
+  <i>© 2026 Asma Farwin | Cyber Security Undergraduate</i>
 </div>
