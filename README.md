@@ -89,7 +89,7 @@ Location: Sri Lanka
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&theme=radical&no-frame=true&row=1" />
 
 </td>
 </tr>
