@@ -45,7 +45,7 @@ fun_fact: I debug code faster than I debug my sleep schedule 😴
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,bootstrap&theme=dark" />
 
 </div>
 
