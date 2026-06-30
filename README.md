@@ -65,7 +65,7 @@ Location: Sri Lanka
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&langs_count=6&count_private=true" />
 
 </td>
 </tr>
