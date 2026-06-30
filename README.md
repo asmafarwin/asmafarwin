@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;BSc(Hons)+Undergrad+at+SLIIT+City+Uni;PHP+%7C+C%23+%7C+SQL+%7C+JavaScript;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=asmafarwin&color=b026ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/asmafarwin?label=FOLLOWERS&style=for-the-badge&color=b026ff)
-
 </div>
 
 <br/>
@@ -34,33 +29,6 @@ fun_fact: I debug code faster than I debug my sleep schedule 😴
 - 🤝 Open to collaborating on **cyber security** and **full-stack development** projects
 - ⚡ Fun fact: I enjoy turning vulnerable code into bulletproof code
 - 📫 Reach me at **asmafarwin31@gmail.com**
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/asmafarwin" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmafarwin&repo=Aura-Attire&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/asmafarwin" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmafarwin&repo=Sarasavi-LMS&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-
-</div>
-
-### 🛍️ Aura Attire — E-Commerce Web Application
-A secure PHP/MySQL fashion e-commerce platform featuring session-based authentication, hashed password storage, prepared statements to prevent SQL injection, and a complete product, cart, and order management flow.
-
-**Tech Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-**Security Highlights:** `Prepared Statements` `password_hash()` `Session Auth`
-
-### 📚 Sarasavi Library Management System
-A C# .NET Windows Forms desktop application with a SQL Server backend, built for IMBSGREEN CAMPUS. Includes full book/member/loan management with business rules like a 5-loan cap per member, 14-day loan periods, and reference-only copy restrictions.
-
-**Tech Stack:** `C#` `.NET` `WinForms` `SQL Server (SSMS)`
-**Highlights:** `ER Diagram Design` `FK Constraints` `Reservation System`
 
 <br/>
 
@@ -92,7 +60,7 @@ A C# .NET Windows Forms desktop application with a SQL Server backend, built for
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br/>
