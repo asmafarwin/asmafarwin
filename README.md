@@ -55,46 +55,15 @@ Location: Sri Lanka
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
 <img src="https://streak-stats.demolab.com?user=asmafarwin&theme=radical&hide_border=true"/>
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&area=true"/>
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&theme=radical&no-frame=true&row=1&column=6"/>
-
-</td>
-</tr>
-
-</table>
 
 </div>
 
