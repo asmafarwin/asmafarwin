@@ -15,20 +15,15 @@
 ```yaml
 name: Asma Farwin
 role: Cyber Security Undergraduate
-university: SLIIT City University
+university: SLIIT City Uni
 degree: BSc(Hons) Cyber Security
-location: Sri Lanka 🇱🇰
-focus: Secure Web & Desktop Application Development
-currently_building: GitHub Portfolio of Academic Projects
+location: Sri Lanka
 fun_fact: I debug code faster than I debug my sleep schedule 😴
 ```
 
-- 🔭 Currently studying **BSc(Hons) Cyber Security** at **SLIIT City University**
+- 🔭 Currently studying **BSc(Hons) Cyber Security** at **SLIIT City Uni**
 - 💻 Building secure, real-world applications — from e-commerce platforms to desktop systems
 - 🌱 Currently leveling up in **Application & Network Security**
-- 🤝 Open to collaborating on **cyber security** and **full-stack development** projects
-- ⚡ Fun fact: I enjoy turning vulnerable code into bulletproof code
-- 📫 Reach me at **asmafarwin31@gmail.com**
 
 <br/>
 
@@ -99,5 +94,5 @@ fun_fact: I debug code faster than I debug my sleep schedule 😴
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/asmafarwin">asmafarwin</a> — Thanks for stopping by!</i>
+  <i>From <a href="https://github.com/asmafarwin">asmafarwin</a> — Thanks for stopping by!</i>
 </div>
