@@ -13,12 +13,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Asma Farwin
-role: Cyber Security Undergraduate
-university: SLIIT City Uni
-degree: BSc(Hons) Cyber Security
-location: Sri Lanka
-fun_fact: I debug code faster than I debug my sleep schedule 😴
+Name: Asma Farwin
+Role: Cyber Security Undergraduate
+University: SLIIT City Uni
+Degree: BSc(Hons) Cyber Security
+Location: Sri Lanka
 ```
 
 - 🔭 Currently studying **BSc(Hons) Cyber Security** at **SLIIT City Uni**
@@ -91,5 +90,5 @@ Tools & Platforms
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <i>From <a href="https://github.com/asmafarwin">asmafarwin</a> — Thanks for stopping by!</i>
+  <i>From <a href="https://github.com/asmafarwin">asmafarwin</a></i>
 </div>
