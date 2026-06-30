@@ -73,7 +73,7 @@ Location: Sri Lanka
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://streak-stats.demolab.com?user=asmafarwin&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&theme=radical&no-frame=true&margin-w=10&row=1" />
 
 </td>
 </tr>
