@@ -55,16 +55,11 @@ Location: Sri Lanka
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://raw.githubusercontent.com/asmafarwin/asmafarwin/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmafarwin&theme=radical&hide_border=true&background=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&bg_color=0D1117&color=b026ff&line=b026ff&point=ffffff"/>
 
 </div>
 
