@@ -55,8 +55,8 @@ Location: Sri Lanka
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br/>
 
