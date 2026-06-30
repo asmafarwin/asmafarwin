@@ -55,33 +55,45 @@ Location: Sri Lanka
 
 <div align="center">
 
+<!-- STATS + LANGUAGES -->
 <table>
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&langs_count=6&count_private=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 
 </td>
 </tr>
 
+<!-- STREAK -->
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmafarwin&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=asmafarwin&theme=radical&hide_border=true" />
 
 </td>
 </tr>
 
+<!-- ACTIVITY GRAPH -->
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&area=true" />
+
+</td>
+</tr>
+
+<!-- TROPHIES -->
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asmafarwin&no-frame=true&margin-w=10&row=1" />
 
 </td>
 </tr>
