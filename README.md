@@ -1,135 +1,68 @@
-<div align="center">
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="450">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20There,%20I'm%20Asma%20Farwin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">Hi 👋, I'm Asma Farwin</h1>
+<h3 align="center">BSc(Hons) Cyber Security Undergraduate @ SLIIT City University</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;BSc(Hons)+Undergrad+at+SLIIT+City+Uni;PHP+%7C+C%23+%7C+SQL+%7C+JavaScript;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<table align="center">
+<tr>
+<td width="50%" align="left">
 
-<br/>
+- 🎓 I'm currently studying **BSc (Hons) Cyber Security at SLIIT City University**
+- 🔐 I'm passionate about **Cybersecurity, Ethical Hacking & Network Security**
+- 🌱 I'm currently learning **Linux, Python & Web Security**
+- 💻 I enjoy building small security-related projects
+- 🎯 Goal: Become a professional Cybersecurity Engineer
+- ⚡ Fun fact: I love learning through hands-on labs & practice
 
-![Profile Views](https://komarev.com/ghpvc/?username=asmafarwin&color=b026ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/asmafarwin?label=FOLLOWERS&style=for-the-badge&color=b026ff)
+</td>
+<td width="50%" align="center">
+<img align="center" alt="Cybersecurity" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+</td>
+</tr>
+</table>
 
-</div>
+---
 
-<br/>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/asma-farwin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a>
+<a href="https://fb.com/asma.farwin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="40" /></a>
+<a href="https://instagram.com/asma_farwin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a>
+</p>
 
-## 🧑‍💻 About Me
+---
 
-```yaml
-name: Asma Farwin
-role: Cyber Security Undergraduate
-university: SLIIT City University
-degree: BSc(Hons) Cyber Security
-location: Sri Lanka 🇱🇰
-focus: Secure Web & Desktop Application Development
-currently_building: GitHub Portfolio of Academic Projects
-fun_fact: I debug code faster than I debug my sleep schedule 😴
-```
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php-logo.png" alt="php"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/ms-sql-server.png" alt="mssql"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/linux.png" alt="linux"/>
+</p>
 
-- 🔭 Currently studying **BSc(Hons) Cyber Security** at **SLIIT City University**
-- 💻 Building secure, real-world applications — from e-commerce platforms to desktop systems
-- 🌱 Currently leveling up in **Application & Network Security**
-- 🤝 Open to collaborating on **cyber security** and **full-stack development** projects
-- ⚡ Fun fact: I enjoy turning vulnerable code into bulletproof code
-- 📫 Reach me at **asmafarwin31@gmail.com**
+<h3 align="center">IDE & Tools I Use</h3>
+<p align="center">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="visualstudio"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="git"/>
+</p>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&locale=en&theme=radical" alt="asmafarwin stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmafarwin&theme=radical" alt="asmafarwin streak" height="165"/>
+</p>
 
-<div align="center">
-
-<a href="https://github.com/asmafarwin" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmafarwin&repo=Aura-Attire&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/asmafarwin" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmafarwin&repo=Sarasavi-LMS&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</a>
-
-</div>
-
-### 🛍️ Aura Attire — E-Commerce Web Application
-A secure PHP/MySQL fashion e-commerce platform featuring session-based authentication, hashed password storage, prepared statements to prevent SQL injection, and a complete product, cart, and order management flow.
-
-**Tech Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-**Security Highlights:** `Prepared Statements` `password_hash()` `Session Auth`
-
-### 📚 Sarasavi Library Management System
-A C# .NET Windows Forms desktop application with a SQL Server backend, built for IMBSGREEN CAMPUS. Includes full book/member/loan management with business rules like a 5-loan cap per member, 14-day loan periods, and reference-only copy restrictions.
-
-**Tech Stack:** `C#` `.NET` `WinForms` `SQL Server (SSMS)`
-**Highlights:** `ER Diagram Design` `FK Constraints` `Reservation System`
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,csharp,java,python,php,js,html,css&theme=dark" />
-
-<br/><br/>
-
-**Databases & Backend**
-
-<img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb,nodejs&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,bootstrap&theme=dark" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmafarwin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asmafarwin&theme=radical&hide_border=true&background=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmafarwin&theme=react-dark&hide_border=true&bg_color=0D1117&color=b026ff&line=b026ff&point=ffffff"/>
-
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/asmafarwin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:asmafarwin31@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/asma_farwin" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://fb.com/asma.farwin" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/asmafarwin">asmafarwin</a> — Thanks for stopping by!</i>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmafarwin&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmafarwin top langs" />
+</p>
