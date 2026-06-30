@@ -89,15 +89,6 @@ Location: Sri Lanka
 </td>
 </tr>
 
-<!-- TROPHIES -->
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmafarwin&theme=radical" />
-
-</td>
-</tr>
-
 </table>
 
 </div>
